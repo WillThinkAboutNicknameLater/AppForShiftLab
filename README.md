@@ -1,6 +1,6 @@
 # AppForShiftLab
 
-![Screenshot1](https://github.com/WillThinkAboutNicknameLater/AppForShiftLab/tree/main/Screenshots/Screenshot1.png)
+![Screenshot1](/Screenshots/Screenshot1.png)
 ![Screenshot2](https://github.com/WillThinkAboutNicknameLater/AppForShiftLab/tree/main/Screenshots/Screenshot2.png)
 ![Screenshot3](https://github.com/WillThinkAboutNicknameLater/AppForShiftLab/tree/main/Screenshots/Screenshot3.png)
 ![Screenshot4](https://github.com/WillThinkAboutNicknameLater/AppForShiftLab/tree/main/Screenshots/Screenshot4.png)
