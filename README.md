@@ -4,7 +4,7 @@
 1. Open terminal and go to your project folder
 2. Enter the command "pod install"
 3. Open .xcworkspace
-* In general, here is the link to the guide [link](https://medium.com/codex/simple-way-to-use-cocoapods-on-m1-ac9e22cf7e1c)
+* In general, here is the link to the [guide](https://medium.com/codex/simple-way-to-use-cocoapods-on-m1-ac9e22cf7e1c)
 
 
 ![Screenshot1](/Screenshots/Screenshot1.png)
