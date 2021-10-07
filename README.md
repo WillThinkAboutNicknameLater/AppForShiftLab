@@ -1,6 +1,7 @@
 # AppForShiftLab
 
-<img src="/Screenshots/Screenshot1.png " width="200">
+<img src="/Screenshots/Screenshot1.png " width="300">
+<img src="/Screenshots/Screenshot2.png " width="300">
 ![Screenshot1](/Screenshots/Screenshot1.png)
 ![Screenshot2](/Screenshots/Screenshot2.png)
 ![Screenshot3](/Screenshots/Screenshot3.png)
