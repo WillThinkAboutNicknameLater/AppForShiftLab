@@ -1,4 +1,15 @@
 # AppForShiftLab
 
-![Screenshot1]()
-![Screenshot2]()
+![Screenshot1](https://github.com/WillThinkAboutNicknameLater/AppForShiftLab/tree/main/Screenshots/Screenshot1)
+![Screenshot2](https://github.com/WillThinkAboutNicknameLater/AppForShiftLab/tree/main/Screenshots/Screenshot2)
+![Screenshot3](https://github.com/WillThinkAboutNicknameLater/AppForShiftLab/tree/main/Screenshots/Screenshot3)
+![Screenshot4](https://github.com/WillThinkAboutNicknameLater/AppForShiftLab/tree/main/Screenshots/Screenshot4)
+![Screenshot5](https://github.com/WillThinkAboutNicknameLater/AppForShiftLab/tree/main/Screenshots/Screenshot5)
+![Screenshot6](https://github.com/WillThinkAboutNicknameLater/AppForShiftLab/tree/main/Screenshots/Screenshot6)
+![Screenshot7](https://github.com/WillThinkAboutNicknameLater/AppForShiftLab/tree/main/Screenshots/Screenshot7)
+![Screenshot8](https://github.com/WillThinkAboutNicknameLater/AppForShiftLab/tree/main/Screenshots/Screenshot8)
+![Screenshot9](https://github.com/WillThinkAboutNicknameLater/AppForShiftLab/tree/main/Screenshots/Screenshot9)
+![Screenshot10](https://github.com/WillThinkAboutNicknameLater/AppForShiftLab/tree/main/Screenshots/Screenshot10)
+![Screenshot11](https://github.com/WillThinkAboutNicknameLater/AppForShiftLab/tree/main/Screenshots/Screenshot11)
+![Screenshot12](https://github.com/WillThinkAboutNicknameLater/AppForShiftLab/tree/main/Screenshots/Screenshot12)
+![Screenshot13](https://github.com/WillThinkAboutNicknameLater/AppForShiftLab/tree/main/Screenshots/Screenshot13)
