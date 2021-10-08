@@ -11,7 +11,7 @@ struct ErrorView: View {
     var viewModel: ErrorViewModel
     
     var title: some View {
-        Text("Failed to sign in")
+        Text(viewModel.title)
             .font(.system(size: 16, weight: .semibold))
             .foregroundColor(.red)
             .multilineTextAlignment(.leading)
